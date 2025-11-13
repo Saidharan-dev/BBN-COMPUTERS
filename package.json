@@ -1,0 +1,46 @@
+{
+  "name": "bbn-computers-website",
+  "version": "1.0.0",
+  "description": "A modern, responsive website for BBN Computers utilizing React, Tailwind CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.24",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^2.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0"
+  },
+  "homepage": ".",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "website",
+    "bbn",
+    "computers"
+  ],
+  "author": "BBN Computers",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
