@@ -9,7 +9,7 @@ BBN Computers is a modern, responsive website designed to showcase the services 
 - **Tailwind CSS**: Leverages Tailwind CSS for styling, allowing for rapid UI development with utility-first classes.
 
 ## Project Structure
-```
+'''
 bbn-computers-website
 ├── src
 │   ├── components
